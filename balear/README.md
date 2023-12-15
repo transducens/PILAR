@@ -1,7 +1,7 @@
 Balearic monolingual corpus crawled from Butlletí Oficial de les Illes Balears
 ======================================================================================================================
 
-## About these corpus
+## About this corpus
 
 This package contains Balearic corpus crawled from the Bolletí Oficial de les Illes Balears (https://www.caib.es/eboibfront/).
 Work carried out within the project "Lightweight neural translation technologies for low-resource languages", funded by he Spanish Ministry of Science and Innovation (MCIN), the Spanish Research Agency and European Regional Development Fund A way to make Europe.

@@ -2,7 +2,7 @@ Aragonese monolingual crawled corpus
 ==========================================================================================================
 
 ## About this corpus
-This package contains Aragonese corpus crawled from different websites:
+This package contains Aragonese corpus crawled from the following websites:
 * https://estricalla.blogspot.com/?m=1
 * https://bomboloniar.blogspot.com/?m=1
 * http://blog.estauaragones.org/blog/
@@ -10,12 +10,12 @@ This package contains Aragonese corpus crawled from different websites:
 * https://www.europapress.es/
 * http://academiadelaragones.org/index.htm
 
-Work carried out within the project "Lightweight neural translation technologies for low-resource languages", funded by he Spanish Ministry of Science and Innovation (MCIN), the Spanish Research Agency and European Regional Development Fund A way to make Europe.
-
+Corpus produced as part of the R+D+i poject [Lightweight neural translation technologies for low-resource languages (LiLowLa)](https://transducens.dlsi.ua.es/lilowla/) (PID2021-127999NB-I00) funded by the Spanish Ministry of Science and Innovation (MCIN), the Spanish Research Agency (AEI/10.13039/501100011033) and the European Regional Development Fund A way to make Europe. 
 
 ## Versions
-Two versions of the crawled corpus are available. [crawled.gz](crawled.gz) is the result of applying a language identifier trained on Spanish, Catalan, Aranese, Aragonese, Occitan and Asturian (available soon). Contains 140.000 sentences from the original 3.000.000 crawled.
-[crawled_filtered.gz](crawled_filtered.gz) was obtained by applying the [LangID](https://github.com/saffsd/langid.py) identifier to [crawled.gz](crawled.gz) and discarding the sentences identified as Spanish. Contains 25.000 sentences.
+Two versions of the crawled corpus are available. 
+* [crawled.gz](crawled.gz) is the result of applying a language identifier trained on Spanish, Catalan, Aranese, Aragonese, Occitan and Asturian (available soon). It contains around 140.000 sentences from the original crawl.
+* [crawled_filtered.gz](crawled_filtered.gz) was obtained by applying the [LangID](https://github.com/saffsd/langid.py) identifier to [crawled.gz](crawled.gz) and discarding the sentences identified as Spanish. It contains about 25.000 sentences.
 
 
 ## License
@@ -33,7 +33,7 @@ you and should therefore not be reproduced here, please:
  * Clearly identify the copyrighted work claimed to be infringed.
  * Clearly identify the material that is claimed to be infringing and
    information reasonably sufficient to allow us to locate the material. 
- * And contact aaron.galiano@ua.es
+ * And contact fsanchez@ua.es
 
 Take down: We will comply to legitimate requests by removing the affected
 sources from the next release of the corpus.

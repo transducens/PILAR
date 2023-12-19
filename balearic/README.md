@@ -5,7 +5,8 @@ Balearic monolingual corpus crawled from Butlletí Oficial de les Illes Balears
 
 This package contains Balearic corpus crawled from the Bolletí Oficial de les Illes Balears (https://www.caib.es/eboibfront/).
 
-Work carried out within the project "Lightweight neural translation technologies for low-resource languages", funded by he Spanish Ministry of Science and Innovation (MCIN), the Spanish Research Agency and European Regional Development Fund A way to make Europe.
+Corpus produced as part of the R+D+i poject [Lightweight neural translation technologies for low-resource languages (LiLowLa)](https://transducens.dlsi.ua.es/lilowla/) (PID2021-127999NB-I00) funded by the Spanish Ministry of Science and Innovation (MCIN), the Spanish Research Agency (AEI/10.13039/501100011033) and the European Regional Development Fund A way to make Europe. 
+
 
 ## License
 These data are released under this licensing scheme:
@@ -22,7 +23,7 @@ you and should therefore not be reproduced here, please:
  * Clearly identify the copyrighted work claimed to be infringed.
  * Clearly identify the material that is claimed to be infringing and
    information reasonably sufficient to allow us to locate the material. 
- * And contact aaron.galiano@ua.es
+ * And contact fsanchez@ua.es
 
 Take down: We will comply to legitimate requests by removing the affected
 sources from the next release of the corpus.

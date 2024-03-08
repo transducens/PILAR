@@ -9,11 +9,11 @@ Corpus produced as part of the R+D+i poject [Lightweight neural translation tech
 
 ### Parallel corpus
 
-Balearic - Spanish parallel corpus, available in the files BOIB.balearic.gz and BOIB.spanish.gz
+Balearic - Spanish parallel corpus, available in the files BOIB.balearic.zip and BOIB.spanish.zip
 
 ### Monolingual corpus
 
-Balearic monolingual corpus, available in the file BOIB.gz
+Balearic monolingual corpus, available in the file BOIB.zip
 
 ## License
 These data are released under this licensing scheme:

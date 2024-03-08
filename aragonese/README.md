@@ -14,8 +14,8 @@ Corpus produced as part of the R+D+i poject [Lightweight neural translation tech
 
 ## Versions
 Two versions of the crawled corpus are available. 
-* [crawled.gz](crawled.gz) is the result of applying a language identifier trained on Spanish, Catalan, Aranese, Aragonese, Occitan and Asturian (available soon). It contains around 140.000 sentences from the original crawl.
-* [crawled_filtered.gz](crawled_filtered.gz) was obtained by applying the [LangID](https://github.com/saffsd/langid.py) identifier to [crawled.gz](crawled.gz) and discarding the sentences identified as Spanish. It contains about 25.000 sentences.
+* [crawled.zip](crawled.zip) is the result of applying a [language identifier](https://github.com/transducens/Idiomata-Cognitor) to the original crawled text.
+* [literary.zip](literary.zip) was obtained from literary translations into Aragonese.
 
 
 ## License

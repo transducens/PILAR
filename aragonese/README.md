@@ -37,3 +37,7 @@ you and should therefore not be reproduced here, please:
 
 Take down: We will comply to legitimate requests by removing the affected
 sources from the next release of the corpus.
+
+## Acknowledgements
+
+The literary translations were provided by the [Instituto de l'Aragonés](https://academiaaragonesadelalengua.org/instituto-aragones), part of the [Academia Aragonesa de la Lengua](https://academiaaragonesadelalengua.org/).

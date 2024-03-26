@@ -26,14 +26,16 @@ authors:
 repository-code: >-
   https://github.com/transducens/PILAR
 abstract: >-
-  Idiomata Cognitor is a language identifier focused on a
-  number of Romance languages, trained with Bayesian
-  methods. It complements general language detectors by
-  offering finer classification within Romance languages.
+  PILAR is a collection of low-resource language
+  corpora representing languages spoken in  the
+  Iberian Peninsula. These corpora include Aragonese,
+  Aranese, Asturian, Balearic, and Valencian. The
+  datasets are compiled from diverse monolingual
+  and parallel resources.
 keywords:
-  - language identification
+  - low-resource languages
   - Romance languages
-  - language classifier
+  - corpora
 license: CC0 1.0 Universal
 commit: 01d903f7a69f077039e3c747325d0d56a06bf901
 version: ' 1.0.1 '

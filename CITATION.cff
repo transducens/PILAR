@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PILAR
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Aarón
+    family-names: Galiano-Jiménez
+    email: aaron.galiano@ua.es
+    affiliation: 'Universitat d'Alacant, Transducens research group, Spain'
+    orcid: 'https://orcid.org/0000-0002-8107-1411'
+  - given-names: Felipe
+    family-names: Sánchez-Martínez
+    email: fsanchez@dlsi.ua.es
+    affiliation: 'Universitat d'Alacant, Transducens research group, Spain'
+    orcid: 'https://orcid.org/0000-0002-2295-2630'
+  - given-names: Juan Antonio
+    family-names: Pérez-Ortiz
+    email: japerez@ua.es
+    affiliation: 'Universitat d'Alacant, Transducens research group, Spain'
+    orcid: 'https://orcid.org/0000-0001-7659-8908'
+repository-code: >-
+  https://github.com/transducens/PILAR
+abstract: >-
+  Idiomata Cognitor is a language identifier focused on a
+  number of Romance languages, trained with Bayesian
+  methods. It complements general language detectors by
+  offering finer classification within Romance languages.
+keywords:
+  - language identification
+  - Romance languages
+  - language classifier
+license: CC0 1.0 Universal
+commit: 01d903f7a69f077039e3c747325d0d56a06bf901
+version: ' 1.0.1 '
+date-released: '2024-03-26'

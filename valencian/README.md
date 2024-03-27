@@ -6,7 +6,8 @@ Spanish - Valencian parallel corpus and Valencian Monolingual corpus crawled
 This package contains all the corpora produced during the research project *Traducción automática neuronal para el valenciano*,
 corresponding to the *Convocatoria de expresiones de interés de la Universidad de Alicante de proyectos de investigación para 
 impulsar los procesos de innovación, generación y transferencia de conocimiento y tecnología en el ámbito de la Inteligencia Digital* 
-and subsidised by the Centro de Inteligencia Digital de la Provincia de Alicante and the Diputación de Alicante.
+and subsidised by the Centro de Inteligencia Digital de la Provincia de Alicante and the Diputación de Alicante. The original repository
+is [trad-automatica-neuronal-valenciano](https://github.com/transducens/trad-automatica-neuronal-valenciano).
 
 
 ## License

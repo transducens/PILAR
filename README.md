@@ -9,11 +9,11 @@ PILAR contains a collection of low-resource language corpora from the Iberian Pe
 
 PILAR includes corpora for the following languages:
 
-- Aragonese
-- Aranese
-- Asturian
-- Balearic
-- Valencian
+- [Aragonese](https://github.com/transducens/PILAR/tree/main/aragonese)
+- [Aranese](https://github.com/transducens/PILAR/tree/main/aranese)
+- [Asturian](https://github.com/transducens/PILAR/tree/main/asturian)
+- [Balearic](https://github.com/transducens/PILAR/tree/main/balearic)
+- [Valencian](https://github.com/transducens/PILAR/tree/main/valencian)
 
 ## Structure
 

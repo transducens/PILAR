@@ -21,7 +21,7 @@ Each language corpus is organized into its respective folder within the reposito
 
 In addition, [FLORES+.zip](https://github.com/transducens/PILAR/blob/main/FLORES%2B.zip) file contains translations of the development set of [FLORES+](https://github.com/openlanguagedata/flores) into Aragonese, Aranese, and Asturian. Although FLORES+ already includes an Asturian version, the version published in this repository has been revised.
 
-As in the original FLORES+ repository, the files are provided compressed (password: "multilingual machine translation") to prevent them from being automatically crawled and added to training datasets.
+As in the original FLORES+ repository, the files are provided compressed (password: `multilingual machine translation`) to prevent them from being automatically crawled and added to training datasets.
 
 ## License
 These data are released under this licensing scheme:

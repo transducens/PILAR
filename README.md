@@ -9,15 +9,19 @@ PILAR contains a collection of low-resource language corpora from the Iberian Pe
 
 PILAR includes corpora for the following languages:
 
-- Aragonese
-- Aranese
-- Asturian
-- Balearic
-- Valencian
+- [Aragonese](https://github.com/transducens/PILAR/tree/main/aragonese)
+- [Aranese](https://github.com/transducens/PILAR/tree/main/aranese)
+- [Asturian](https://github.com/transducens/PILAR/tree/main/asturian)
+- [Balearic](https://github.com/transducens/PILAR/tree/main/balearic)
+- [Valencian](https://github.com/transducens/PILAR/tree/main/valencian)
 
 ## Structure
 
 Each language corpus is organized into its respective folder within the repository. Additionally, each language folder contains its own README file providing details about the resources used to create the corpus.
+
+In addition, [FLORES+.zip](https://github.com/transducens/PILAR/blob/main/FLORES%2B.zip) file contains translations of the development set of [FLORES+](https://github.com/openlanguagedata/flores) into Aragonese, Aranese, and Asturian. Although FLORES+ already includes an Asturian version, the version published in this repository has been revised.
+
+As in the original FLORES+ repository, the files are provided compressed (password: `multilingual machine translation`) to prevent them from being automatically crawled and added to training datasets.
 
 ## License
 These data are released under this licensing scheme:

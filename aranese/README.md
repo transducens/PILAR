@@ -17,7 +17,7 @@ download files [paragraphs.aranese_catalan.aranese.zip](paragraphs.aranese_catal
 And the same data divided into sentences and aligned with [Bitextor](https://github.com/bitextor/bitextor);
 download files [sentences.aranese_catalan.aranese.zip](sentences.aranese_catalan.aranese.zip) and [sentences.aranese_catalan.catalan.zip](sentences.aranese_catalan.catalan.zip).
 
-Both versions also have two variants: the standard and the "filtered." The latter has been processed with [Idiomata Cognitor](https://github.com/transducens/idiomata_cognitor/tree/main) to remove sentences from Catalan documents labeled as Aranese or Occitan.
+Both versions also have two variants: the standard and the "filtered". The latter has been processed with [Idiomata Cognitor](https://github.com/transducens/idiomata_cognitor/tree/main) to remove sentences from Catalan documents labeled as Aranese or Occitan.
 
 ### Monolingual corpus
 

@@ -19,7 +19,7 @@ PILAR includes corpora for the following languages:
 
 Each language corpus is organized into its respective folder within the repository. Additionally, each language folder contains its own README file providing details about the resources used to create the corpus.
 
-In addition, [FLORES+.zip](https://github.com/transducens/PILAR/blob/main/FLORES%2B.zip) file contains translations of the development set of [FLORES+](https://github.com/openlanguagedata/flores) into Aragonese, Aranese, and Asturian. Although FLORES+ already includes an Asturian version, the version published in this repository has been revised. The file also contains the corresponding original Spanish side of FLORES+.
+In addition, [FLORES+.zip](https://github.com/transducens/PILAR/blob/main/FLORES%2B.zip) file contains translations of the dev and devtest sets of [FLORES+](https://github.com/openlanguagedata/flores) into Aragonese, Aranese, and Asturian. Although FLORES+ already includes an Asturian version, the version published in this repository has been revised. The file also contains the corresponding original Spanish side of FLORES+.
 
 As in the original FLORES+ repository, the files are provided compressed (password: `multilingual machine translation`) to prevent them from being automatically crawled and added to training datasets.
 

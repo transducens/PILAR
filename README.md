@@ -1,7 +1,7 @@
 # Pan-Iberian Language Archival Resource (PILAR)
 
-This repository contains the PILAR corpora, produced as part of the R+D+i poject [Lightweight neural translation technologies for low-resource languages (LiLowLa)](https://transducens.dlsi.ua.es/lilowla/) (PID2021-127999NB-I00) funded by the Spanish Ministry
-of Science and Innovation (MCIN), the Spanish Research Agency (AEI/10.13039/501100011033) and the European Regional Development Fund A way to make Europe. 
+This repository contains the PILAR corpora, produced as part of the R+D+i project [Lightweight neural translation technologies for low-resource languages (LiLowLa)](https://transducens.dlsi.ua.es/lilowla/) (PID2021-127999NB-I00) funded by the Spanish Ministry
+of Science and Innovation (MCIN), the Spanish Research Agency (AEI/10.13039/501100011033) and the European Regional Development Fund A way to make Europe. The project LiLowLa has been carried out by researchers of the Transducens research group at Universitat d'Alacant, Spain.
 
 PILAR contains a collection of low-resource language corpora from the Iberian Peninsula. These corpora have been generated from various monolingual and parallel resources to facilitate research and development in the field of Romance languages.
 
@@ -25,7 +25,7 @@ The file [FLORES+.zip](https://github.com/transducens/PILAR/blob/main/FLORES%2B.
 
 As in the original FLORES+ repository, the files are provided compressed (password: `multilingual machine translation`) to prevent them from being automatically crawled and added to training datasets.
 
-It is important to note that the method used to create the FLORES+ Asturian dataset differs from the one used for Aragonese and Aranese. The Asturian sentences were originally obtained by Meta via professional translation from English and then we asked the academia to revise it, whereas the Aragonese and Aranese sentences were first machine translated from the Spanish sentences using Apertium and then manually post-edited by specialists proficient in these languages and finally revised by the academias.
+It is important to note that the method used to create the FLORES+ Asturian dataset differs from the one used for Aragonese and Aranese. The Asturian sentences were originally obtained by Meta via professional translation from English and then we asked the academia to revise it, whereas the Aragonese and Aranese sentences were first machine translated from the Spanish sentences using Apertium and then manually post-edited by specialists proficient in these languages and finally revised by the academias. The post-editions were supervised by the R+D+i project PID2021-124663OB-I00 ("TAN-IBE: Neural Machine Translation for the Romance languages of the Iberian Peninsula") developed at Universitat Oberta de Catalunya, Spain.
 
 ## License
 

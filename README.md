@@ -5,15 +5,15 @@ of Science and Innovation (MCIN), the Spanish Research Agency (AEI/10.13039/5011
 
 PILAR contains a collection of low-resource language corpora from the Iberian Peninsula. These corpora have been generated from various monolingual and parallel resources to facilitate research and development in the field of Romance languages.
 
-## Included Languages
+## Included Languages and Language Variants:
 
-PILAR includes corpora for the following  languages:
+PILAR includes corpora for the following languages and language variants:
 
 - [Aragonese](https://github.com/transducens/PILAR/tree/main/aragonese)
-- [Aranese](https://github.com/transducens/PILAR/tree/main/aranese)
+- [Aranese](https://github.com/transducens/PILAR/tree/main/aranese) (variant of Occitan spoken in the Aran Valley)
 - [Asturian](https://github.com/transducens/PILAR/tree/main/asturian)
-- [Balearic](https://github.com/transducens/PILAR/tree/main/balearic)
-- [Valencian](https://github.com/transducens/PILAR/tree/main/valencian)
+- [Balearic](https://github.com/transducens/PILAR/tree/main/balearic) (variant of Catalan spoken in the Balearic Islands)
+- [Valencian](https://github.com/transducens/PILAR/tree/main/valencian) (variant of Catalan spoken in the Valencian Region)
 
 ## Structure
 

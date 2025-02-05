@@ -7,7 +7,7 @@ PILAR contains a collection of low-resource language corpora from the Iberian Pe
 
 ## Included Languages
 
-PILAR includes corpora for the following languages:
+PILAR includes corpora for the following  languages:
 
 - [Aragonese](https://github.com/transducens/PILAR/tree/main/aragonese)
 - [Aranese](https://github.com/transducens/PILAR/tree/main/aranese)

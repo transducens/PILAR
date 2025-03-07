@@ -27,6 +27,15 @@ As in the original FLORES+ repository, the files are provided compressed (passwo
 
 It is important to note that the method used to create the FLORES+ Asturian dataset differs from the one used for Aragonese and Aranese. The Asturian sentences were originally obtained by Meta via professional translation from English and then we asked the academia to revise it, whereas the Aragonese and Aranese sentences were first machine translated from the Spanish sentences using Apertium and then manually post-edited by specialists proficient in these languages and finally revised by the academias. The post-editions were supervised by the R+D+i project PID2021-124663OB-I00 ("TAN-IBE: Neural Machine Translation for the Romance languages of the Iberian Peninsula") developed at Universitat Oberta de Catalunya, Spain.
 
+### Update (07/03/2025): Alignment error in Aranese FLORES+ data fixed
+
+We have identified an alignment issue in the Aranese development and test sets of FLORES+ caused by formatting errors in the original Word file used by the revisors. When the content was extracted into a .txt file, some of the sentences remained correctly aligned, but approximately 1/4 of the dev set and 1/2 of the test set were misaligned.
+
+This issue has been fixed and the updated Aranese files are included in the latest version of the FLORES+.zip archive in this repository.
+
+If you previously downloaded the FLORES+ data, we strongly recommend discarding the old files and using the newly corrected versions to ensure proper alignment.
+
+
 ## License
 
 These data are released under this licensing scheme:

@@ -42,6 +42,7 @@ These data are released under this licensing scheme:
  * We do not own any of the text from which these data has been extracted.
  * We license the actual packaging of these parallel data under the Creative
    Commons CC0 license ("no rights reserved").
+ * FLORES+: CC-BY-SA 4.0
 
 ## Citing this work
 
